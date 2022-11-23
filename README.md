@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="center">Im a student at the IT university in Copenhagen studying a masters in Software Design</h3>
+<img align="Right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🔭 I’m currently working on **A search engine**
 
