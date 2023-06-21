@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Christian</h1>
 <h3 align="center">I'm a reliable and motivated MSc. student studying Software Design at the IT University in Copenhagen. I am largely focused on Front and Backend Development, Software Engineering and information security, however am continuously learning new skills while studying and working on Projects</h3>
 
-- 🔭 I’m currently working on **Personal Website to display all my Projects**
+- 🔭 I’m currently working on **Personal Portfolio Website**
 
 - 🌱 I’m currently learning **Vue.JS & Typescript**
 
